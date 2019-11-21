@@ -39,5 +39,14 @@ namespace CheckoutKata.Tests
             _checkout.Scan(skus);
             Assert.AreEqual(expectedTotal, _checkout.GetTotalPrice());
         }
+
+        [TestMethod]
+        [DataRow("AAA", 20)]
+        [DataRow("BB", 15)]
+        public void DiscountsAreCorrectTotal(string skus, int expectedTotal)
+        {
+            _checkout.Scan(skus);
+            Assert.AreEqual(expectedTotal, _checkout.GetTotalPrice());
+        }
     }
 }

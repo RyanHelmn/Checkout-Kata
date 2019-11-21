@@ -35,7 +35,19 @@ namespace CheckoutKata.Core.Models
         public int GetTotalPrice()
         {
             var total = _scannedProducts.Sum(GetPrice);
-            return total;
+            var discount = _discounts.Sum(GetDiscount);
+
+            // Minus the discount from the original sum to get our total price
+            return total - discount;
+        }
+
+        private int GetDiscount(Discount discount)
+        {
+            // If the amount per product is valid for discount, workout the discount value
+            var itemCount = _scannedProducts.Count(p => p == discount.Sku);
+
+            // 3xA = 130, 2xB = 45
+            return itemCount / discount.Quantity * discount.Value;
         }
 
         private int GetPrice(char sku)
