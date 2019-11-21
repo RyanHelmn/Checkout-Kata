@@ -1,3 +1,3 @@
 # Checkout-Kata
 
-Simple C# Checkout-Kata console app with unit tests
+Simple C# Checkout-Kata driven by unit tests
