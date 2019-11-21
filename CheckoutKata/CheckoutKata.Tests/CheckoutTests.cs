@@ -43,6 +43,8 @@ namespace CheckoutKata.Tests
         [TestMethod]
         [DataRow("AAA", 20)]
         [DataRow("BB", 15)]
+        [DataRow("AAABB", 35)]
+        [DataRow("ABABA", 35)]
         public void DiscountsAreCorrectTotal(string skus, int expectedTotal)
         {
             _checkout.Scan(skus);
