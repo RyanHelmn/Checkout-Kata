@@ -7,14 +7,14 @@ namespace CheckoutKata.Core.Models
 {
     public class Checkout : ICheckout
     {
-        private readonly List<Discount> _discounts;
         private readonly List<Product> _products;
+        private readonly List<Discount> _discounts;
         private char[] _scannedProducts;
 
-        public Checkout(List<Discount> discounts, List<Product> products)
+        public Checkout(List<Product> products, List<Discount> discounts)
         {
-            _discounts = discounts;
             _products = products;
+            _discounts = discounts;
             _scannedProducts = new char[] { };
         }
 

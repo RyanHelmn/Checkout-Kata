@@ -1,0 +1,9 @@
+C:\Development\Projects\Personal\Checkout-Kata\CheckoutKata\CheckoutKata.App\bin\Debug\CheckoutKata.App.exe.config
+C:\Development\Projects\Personal\Checkout-Kata\CheckoutKata\CheckoutKata.App\bin\Debug\CheckoutKata.App.exe
+C:\Development\Projects\Personal\Checkout-Kata\CheckoutKata\CheckoutKata.App\bin\Debug\CheckoutKata.App.pdb
+C:\Development\Projects\Personal\Checkout-Kata\CheckoutKata\CheckoutKata.App\bin\Debug\CheckoutKata.Core.dll
+C:\Development\Projects\Personal\Checkout-Kata\CheckoutKata\CheckoutKata.App\bin\Debug\CheckoutKata.Core.pdb
+C:\Development\Projects\Personal\Checkout-Kata\CheckoutKata\CheckoutKata.App\obj\Debug\CheckoutKata.App.csprojAssemblyReference.cache
+C:\Development\Projects\Personal\Checkout-Kata\CheckoutKata\CheckoutKata.App\obj\Debug\CheckoutKata.App.csproj.CopyComplete
+C:\Development\Projects\Personal\Checkout-Kata\CheckoutKata\CheckoutKata.App\obj\Debug\CheckoutKata.App.exe
+C:\Development\Projects\Personal\Checkout-Kata\CheckoutKata\CheckoutKata.App\obj\Debug\CheckoutKata.App.pdb

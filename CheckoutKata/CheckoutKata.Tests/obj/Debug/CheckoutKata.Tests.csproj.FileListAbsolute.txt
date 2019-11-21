@@ -1,0 +1,15 @@
+C:\Development\Projects\Personal\Checkout-Kata\CheckoutKata\CheckoutKata.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Development\Projects\Personal\Checkout-Kata\CheckoutKata\CheckoutKata.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Development\Projects\Personal\Checkout-Kata\CheckoutKata\CheckoutKata.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Development\Projects\Personal\Checkout-Kata\CheckoutKata\CheckoutKata.Tests\bin\Debug\CheckoutKata.Tests.dll
+C:\Development\Projects\Personal\Checkout-Kata\CheckoutKata\CheckoutKata.Tests\bin\Debug\CheckoutKata.Tests.pdb
+C:\Development\Projects\Personal\Checkout-Kata\CheckoutKata\CheckoutKata.Tests\bin\Debug\CheckoutKata.Core.dll
+C:\Development\Projects\Personal\Checkout-Kata\CheckoutKata\CheckoutKata.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Development\Projects\Personal\Checkout-Kata\CheckoutKata\CheckoutKata.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Development\Projects\Personal\Checkout-Kata\CheckoutKata\CheckoutKata.Tests\bin\Debug\CheckoutKata.Core.pdb
+C:\Development\Projects\Personal\Checkout-Kata\CheckoutKata\CheckoutKata.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Development\Projects\Personal\Checkout-Kata\CheckoutKata\CheckoutKata.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Development\Projects\Personal\Checkout-Kata\CheckoutKata\CheckoutKata.Tests\obj\Debug\CheckoutKata.Tests.csprojAssemblyReference.cache
+C:\Development\Projects\Personal\Checkout-Kata\CheckoutKata\CheckoutKata.Tests\obj\Debug\CheckoutKata.Tests.csproj.CopyComplete
+C:\Development\Projects\Personal\Checkout-Kata\CheckoutKata\CheckoutKata.Tests\obj\Debug\CheckoutKata.Tests.dll
+C:\Development\Projects\Personal\Checkout-Kata\CheckoutKata\CheckoutKata.Tests\obj\Debug\CheckoutKata.Tests.pdb
